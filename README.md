@@ -1,2 +1,0 @@
-# TCM
-Traditional Chinese Medicine
